@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @faisal336
+# 👋 Hey there! I'm Faisal!
 
+Welcome to my GitHub profile! I'm a seasoned web developer with over 4 years of experience. Here's what I bring to the table:
 
-<!---
-faisal336/faisal336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 PHP Laravel  
+🌐 WordPress  
+⚙️ Continuous Integration (CI) / Continuous Deployment (CD)  
+🛠️ Git actions and pipelining  
+
+## Let's Connect!
+Feel free to explore my repositories and reach out for collaboration or inquiries. Let's create exceptional web solutions together!
+
