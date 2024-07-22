@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Faisal Akhtar!
 
-Welcome to my GitHub profile! I'm a seasoned web developer with over 4 years of experience. Here's what I bring to the table:
+Welcome to my GitHub profile! I'm a seasoned web developer with over 5 years of experience. Here's what I bring to the table:
 
 ## Technologies I Work With
 
